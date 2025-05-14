@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /*border: 1px solid red*/
     
 }
 
@@ -16,6 +17,7 @@ h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
+    margin: 25px;
   
 }
 
@@ -24,15 +26,21 @@ h2 {
     font-weight: 300;
     font-size: 42px;
     color: white;
+    margin: 25px;
 }
 
 .link {
     color: aquamarine;
     font-size: 16px;
+    margin: 20px;
 }
 
 .gray-text {
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
+}
+
+img {
+    margin: 20px auto;
 }
